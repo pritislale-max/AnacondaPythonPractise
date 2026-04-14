@@ -3,7 +3,7 @@ Program to work with natural numbers from 1 to 100
 """
 
 # Display all natural numbers from 1 to 100
-print("Natural numbers from 1 to 100:")
+print("Natural numbers from =1 to 100:")
 print("=" * 50)
 
 for num in range(1, 101):
